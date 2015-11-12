@@ -1,4 +1,5 @@
-# html-course
+# html-starter-kit
+
 Basic files to start an html and css project
 
 Gulp file already set with connect to run th webserver, sass and autoprefixer to give superpower to your css.
